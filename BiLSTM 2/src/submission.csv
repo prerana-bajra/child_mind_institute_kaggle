@@ -1,0 +1,6 @@
+row_id,series_id,step,event,score
+0,038441c925bb,7,onset,0.5859533
+1,03d92c9f6f8a,2,onset,0.5679072
+2,03d92c9f6f8a,13,onset,0.51207036
+3,0402a003dae9,13,wakeup,0.4433994
+4,0402a003dae9,140,onset,0.52071005
